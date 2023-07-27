@@ -15,7 +15,7 @@
     --background-secondary: #1f1d2e;
     --background-secondary-alt: #26233a;
     --channeltextarea-background: #2c2842;
-    --background-tertiary: #191724;
+    --background-tertiary: rgba(0,0,0,0);
     --background-accent: #ebbcba;
     --text-normal: #dad7fd;
     --text-spotify: #9ccfd8;
